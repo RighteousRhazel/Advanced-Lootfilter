@@ -77,8 +77,8 @@ ItemDisplay[dhn]: %WHITE%««%RED%Diablo Horn%WHITE%««
 ItemDisplay[bey]: %WHITE%««%GOLD%Baal Eye%WHITE%««
 ItemDisplay[cx7]: %RED%¤¤¤¤ %GOLD%Key of Chaos%RED% ¤¤¤¤
 ItemDisplay[cx6]: %WHITE«%TAN%OO%RED% Diablo's Soulstone %TAN%OO%WHITE%«
-ItemDisplay[tch UNI !ID]: %RED%««%TAN%««%PURPLE%Hellfire Torch%TAN%««%RED%««
-ItemDisplay[cm1 UNI !ID]: %RED%««%TAN%««%PURPLE%Annihilus Charm%TAN%««%RED%««
+ItemDisplay[cm1 UNI !ID]: %RED%«« %TAN%«« %PURPLE%Annihilus Charm %TAN%«« %RED%««
+ItemDisplay[cm2 UNI !ID]: %RED%«« %TAN%«« %PURPLE%Hellfire Torch %TAN%«« %RED%««
 //Path of Diablo Specific Items
 ItemDisplay[cx5]: %PURPLE%¤¤ %GOLD%O O C %PURPLE%¤¤
 ItemDisplay[ma4]: %WHITE%«%PURPLE% TIER 1 %WHITE%«
