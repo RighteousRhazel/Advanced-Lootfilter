@@ -1078,8 +1078,6 @@ ItemDisplay[(WEAPON OR ARMOR) !EQ4 !EQ5 !EQ6 SOCK>0 ETH SET ID]: %GRAY%ETH %GREE
 ItemDisplay[(WEAPON OR ARMOR) !EQ4 !EQ5 !EQ6 !ETH SET ID]: %GREEN%%NAME%
 ItemDisplay[(WEAPON OR ARMOR) !EQ4 !EQ5 !EQ6 ETH SET ID]: %GRAY%ETH %GREEN%%NAME%
 ItemDisplay[(WEAPON OR ARMOR) SET !ID]: %GREEN%%NAME%%RED%[REPORT TO RHAZEL]OOO
-//Inferior and Low Quality Items
-ItemDisplay[INF !RW !WP12 !CL4 !CL6]:
 //Class Specific Rares
 ItemDisplay[CL1 RARE !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[CL1 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
@@ -1197,6 +1195,8 @@ ItemDisplay[(7tk OR 7ta OR 7bk) NMAG !ETH !ED=15]: Throw%YELLOW%($35k)
 ItemDisplay[(hlm OR xlm OR ulm) MAG ILVL>82 CLVL<91]: %WHITE%%NAME% %ORANGE%!%GRAY%[blood helm]
 ItemDisplay[(ulb OR xlb OR lbt) MAG ILVL>84]: %WHITE%%NAME% %ORANGE%!%GRAY%[caster boots]
 ItemDisplay[(uvc OR zvb) MAG ILVL>84]: %WHITE%%NAME% %ORANGE%!%GRAY%[caster belt]
+//Inferior and Low Quality Items
+ItemDisplay[INF !RW !WP12 !CL4 !CL6]:
 //Bases
 ItemDisplay[(ARMOR OR WEAPON) SOCK=1]:
 //Helms
