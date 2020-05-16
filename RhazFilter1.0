@@ -632,7 +632,7 @@ ItemDisplay[7mt UNI !ID !ETH]: %TAN%%NAME% %WHITE%[baranar's star]
 ItemDisplay[7mt UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[baranar's star]
 ItemDisplay[7fl UNI !ID !ETH]: %RED%©©%TAN% Horizon's Tornado or Stormlash %RED%©©
 ItemDisplay[7fl UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%%Horizon's Tornado or Stormlash %RED%©©%GRAY%©
-ItemDisplay[7wh UNI !ID !ETH]: ©%RED%©©%TAN% Stone Crusher or Schaefer's Hammer %RED%©©
+ItemDisplay[7wh UNI !ID !ETH]: %RED%©©%TAN% Stone Crusher or Schaefer's Hammer %RED%©©
 ItemDisplay[7wh UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[stone crusher or schaefer's hammer]
 ItemDisplay[7m7 UNI !ID !ETH]: %TAN%%NAME% %WHITE%[windhammer]
 ItemDisplay[7m7 UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[windhammer]
@@ -669,12 +669,12 @@ ItemDisplay[9ss UNI !ID !ETH]: %TAN%%NAME% %WHITE%[bloodletter]
 ItemDisplay[9ss UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[bloodletter]
 ItemDisplay[9sm UNI !ID !ETH]: %TAN%%NAME% %WHITE%[coldsteel eye]
 ItemDisplay[9sm UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[coldsteel eye]
-ItemDisplay[9sb UNI !ID !ETH]: %RED%©©%TAN% Hexfire %RED%©©
-ItemDisplay[9sb UNI !ID ETH]: %GRAY%©©%RED%©%GRAY%ETH %TAN%Hexfire %RED%©©%GRAY%©
-ItemDisplay[9fc UNI !ID !ETH]: %RED%©©%TAN% Blade of Ali Baba %RED%©©
-ItemDisplay[9fc UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%Blade of Ali Baba %RED%©©%GRAY%©
-ItemDisplay[9cr UNI !ID !ETH]: ©©%RED%©%TAN% Ginther's Rift %RED%©©
-ItemDisplay[9cr UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%Ginther's Rift %RED%©©%GRAY%©
+ItemDisplay[9sb UNI !ID !ETH]: %RED%©%TAN% Hexfire %RED%©
+ItemDisplay[9sb UNI !ID ETH]: %GRAY%©%RED%©%GRAY%ETH %TAN%Hexfire %RED%©%GRAY%©
+ItemDisplay[9fc UNI !ID !ETH]: %RED%©%TAN% Blade of Ali Baba %RED%©
+ItemDisplay[9fc UNI !ID ETH]: %GRAY%©%RED%©%GRAY%ETH %TAN%Blade of Ali Baba %RED%©%GRAY%©
+ItemDisplay[9cr UNI !ID !ETH]: %RED%©%TAN% Ginther's Rift %RED%©
+ItemDisplay[9cr UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[ginther's rift]
 ItemDisplay[9bs UNI !ID !ETH]: %RED%©©©%TAN% Headstriker %RED%©©©
 ItemDisplay[9bs UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[headstriker]
 ItemDisplay[9ls UNI !ID !ETH]: %TAN%%NAME% %WHITE%[plague bearer]
@@ -797,11 +797,11 @@ ItemDisplay[9h9 UNI !ID !ETH]: %TAN%%NAME% %WHITE%[husoldal evo]
 ItemDisplay[9h9 UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[husoldal evo]
 ItemDisplay[9wc UNI !ID !ETH]: %TAN%%NAME% %WHITE%[grim's burning dead]
 ItemDisplay[9wc UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[grim's burning dead]
-ItemDisplay[7o7 UNI !ID !ETH]: ©©%RED%©%TAN% Bonehew %RED%©©
+ItemDisplay[7o7 UNI !ID !ETH]: %RED%©%TAN% Bonehew %RED%©©
 ItemDisplay[7o7 UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%Bonehew %RED%©©%GRAY%©
-ItemDisplay[7s8 UNI !ID !ETH]: ©©%RED%©©%TAN% Reaper's Toll %RED%©©
+ItemDisplay[7s8 UNI !ID !ETH]: %RED%©©%TAN% Reaper's Toll %RED%©©
 ItemDisplay[7s8 UNI !ID ETH]: %GRAY%©%RED%©%GRAY%ETH %TAN%Reaper's Toll %RED%©©%GRAY%©
-ItemDisplay[7pa UNI !ID !ETH]: ©©%RED%©©%TAN% Tomb Reaver %RED%©©
+ItemDisplay[7pa UNI !ID !ETH]: %RED%©©%TAN% Tomb Reaver %RED%©©
 ItemDisplay[7pa UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%Tomb Reaver %RED%©©%GRAY%©
 ItemDisplay[7wc UNI !ID !ETH]: %RED%©©©%TAN% Stormspire %RED%©©©
 ItemDisplay[7wc UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[stormspire]
@@ -1010,7 +1010,7 @@ ItemDisplay[lea SET !ID]: %GREEN%%NAME% %DGREEN%Vidala's
 ItemDisplay[tbt SET !ID]: %GREEN%%NAME% %DGREEN%Vidala's
 //Tier Two Sets
 ItemDisplay[dr8 SET !ID]: %GREEN%%NAME% %DGREEN%Aldur's
-ItemDisplay[xtb SET !ID]: %PURPLE%©©%GREEN%%NAME% %DGREEN%Aldur's%PURPLE%©©
+ItemDisplay[xtb SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Aldur's %RED%©
 ItemDisplay[uul SET !ID]: %GREEN%%NAME% %DGREEN%Aldur's
 ItemDisplay[9mt SET !ID]: %GREEN%%NAME% %DGREEN%Aldur's
 ItemDisplay[7gd SET !ID]: %GREEN%%NAME% %DGREEN%Bul-Kathos'
@@ -1018,7 +1018,7 @@ ItemDisplay[7wd SET !ID]: %GREEN%%NAME% %DGREEN%Bul-Kathos'
 ItemDisplay[xap SET !ID]: %GREEN%%NAME% %DGREEN%Cow King's
 ItemDisplay[stu SET !ID]: %GREEN%%NAME% %DGREEN%Cow King's
 ItemDisplay[vbt SET !ID]: %GREEN%%NAME% %DGREEN%Sander's or Cow King's
-ItemDisplay[ulg SET !ID]: %PURPLE%©©%GREEN%%NAME% %DGREEN%The Disciple%PURPLE%©©
+ItemDisplay[ulg SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%The Disciple %RED%©
 ItemDisplay[uui SET !ID]: %GREEN%%NAME% %DGREEN%The Disciple
 ItemDisplay[xlb SET !ID]: %GREEN%%NAME% %DGREEN%The Disciple
 ItemDisplay[umc SET !ID]: %GREEN%%NAME% %DGREEN%The Disciple
@@ -1037,7 +1037,7 @@ ItemDisplay[xcl SET !ID]: %GREEN%%NAME% %DGREEN%Hwanin's
 ItemDisplay[mbl SET !ID]: %GREEN%%NAME% %DGREEN%Hsarus' or Hwanin's
 ItemDisplay[ba5 SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
 ItemDisplay[7m7 SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
-ItemDisplay[uar SET !ID]: %PURPLE%©©%GREEN%%NAME% %DGREEN%Immortal King%PURPLE%©©
+ItemDisplay[uar SET !ID]: %PURPLE%©© %GREEN%%NAME% %DGREEN%Immortal King %PURPLE%©©
 ItemDisplay[zhb SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
 ItemDisplay[xhg SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
 ItemDisplay[xhb SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
@@ -1046,32 +1046,32 @@ ItemDisplay[amc SET !ID]: %GREEN%%NAME% %DGREEN%Mavina's
 ItemDisplay[uld SET !ID]: %GREEN%%NAME% %DGREEN%Mavina's
 ItemDisplay[xtg SET !ID]: %GREEN%%NAME% %DGREEN%Mavina's
 ItemDisplay[zvb SET !ID]: %GREEN%%NAME% %DGREEN%Mavina's
-ItemDisplay[xh9 SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Natalya's%RED%©
-ItemDisplay[7qr SET !ID]: %PURPLE%©©%GREEN%%NAME% %DGREEN%Natalya's%PURPLE%©©
-ItemDisplay[ucl SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Natalya's%RED%©
-ItemDisplay[xmb SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Natalya's%RED%©
+ItemDisplay[xh9 SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Natalya's %RED%©
+ItemDisplay[7qr SET !ID]: %PURPLE%©© %GREEN%%NAME% %DGREEN%Natalya's %PURPLE%©©
+ItemDisplay[ucl SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Natalya's %RED%©
+ItemDisplay[xmb SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Natalya's %RED%©
 ItemDisplay[ci0 SET !ID]: %GREEN%%NAME% %DGREEN%Naj's
-ItemDisplay[ult SET !ID]: %GREEN%%NAME% %DGREEN%Naj's
-ItemDisplay[6cs SET !ID ]: %RED%©%GREEN%%NAME% %DGREEN%Naj's%RED%©
-ItemDisplay[xhm SET !ID]: %PURPLE%©©%GREEN%%NAME% %DGREEN%Orphan's (G-Face)%PURPLE%©©
+ItemDisplay[ult SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Naj's %RED%©
+ItemDisplay[6cs SET !ID ]: %RED%© %GREEN%%NAME% %DGREEN%Naj's %RED%©
+ItemDisplay[xhm SET !ID]: %PURPLE%©© %GREEN%%NAME% %DGREEN%Orphan's (G-Face) %PURPLE%©©
 ItemDisplay[xml SET !ID]: %GREEN%%NAME% %DGREEN%Orphan's
 ItemDisplay[xvg SET !ID]: %GREEN%%NAME% %DGREEN%Orphan's
 ItemDisplay[ztb SET !ID]: %GREEN%%NAME% %DGREEN%Orphan's
 ItemDisplay[bwn SET !ID]: %GREEN%%NAME% %DGREEN%Sander's
 ItemDisplay[vgl SET !ID]: %GREEN%%NAME% %DGREEN%Sander's
 ItemDisplay[xhl SET !ID]: %GREEN%%NAME% %DGREEN%Sazabi's
-ItemDisplay[7ls SET !ID !ETH]: %RED%©%GREEN%%NAME% %DGREEN%Sazabi's%RED%©
-ItemDisplay[7ls SET !ID ETH]: %GRAY%©ETH %GREEN%%NAME% %DGREEN%Sazabi's%GRAY%©
+ItemDisplay[7ls SET !ID !ETH]: %RED%© %GREEN%%NAME% %DGREEN%Sazabi's% RED%©
+ItemDisplay[7ls SET !ID ETH]: %GRAY%©%RED%©%GRAY%ETH %GREEN%%NAME% %DGREEN%Sazabi's %RED%©%GRAY%©
 ItemDisplay[upl SET !ID]: %GREEN%%NAME% %DGREEN%Sazabi's
-ItemDisplay[oba SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Tal Rasha's%RED%©
-ItemDisplay[xsk SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Tal Rasha's%RED%©
-ItemDisplay[uth SET !ID]: %PURPLE%©©%GREEN%%NAME% %DGREEN%Tal Rasha's%PURPLE%©©
-ItemDisplay[zmb SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Tal Rasha's%RED%©
-ItemDisplay[uh9 SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Trang-Oul's%RED%©
-ItemDisplay[xul SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Trang-Oul's%RED%©
-ItemDisplay[ne9 SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Trang-Oul's%RED%©
-ItemDisplay[utc SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Trang-Oul's%RED%©
-ItemDisplay[xmg SET !ID]: %RED%©%GREEN%%NAME% %DGREEN%Trang-Oul's%RED%©
+ItemDisplay[oba SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%©
+ItemDisplay[xsk SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%©
+ItemDisplay[uth SET !ID]: %PURPLE%©© %GREEN%%NAME% %DGREEN%Tal Rasha's %PURPLE%©©
+ItemDisplay[zmb SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Tal Rasha's %RED%©
+ItemDisplay[uh9 SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%©
+ItemDisplay[xul SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%©
+ItemDisplay[ne9 SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%©
+ItemDisplay[utc SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%©
+ItemDisplay[xmg SET !ID]: %RED%© %GREEN%%NAME% %DGREEN%Trang-Oul's %RED%©
 //Final Code Sets
 ItemDisplay[(WEAPON OR ARMOR) !EQ4 !EQ5 !EQ6 SOCK>0 !ETH SET ID]: %GREEN%%NAME% [%SOCKETS%]
 ItemDisplay[(WEAPON OR ARMOR) !EQ4 !EQ5 !EQ6 SOCK>0 ETH SET ID]: %GRAY%ETH %GREEN%%NAME% [%SOCKETS%]
