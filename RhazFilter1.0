@@ -1080,28 +1080,28 @@ ItemDisplay[(WEAPON OR ARMOR) !EQ4 !EQ5 !EQ6 ETH SET ID]: %GRAY%ETH %GREEN%%NAME
 ItemDisplay[(WEAPON OR ARMOR) SET !ID]: %GREEN%%NAME%%RED%[REPORT TO RHAZEL]OOO
 //Class Specific Rares
 ItemDisplay[CL1 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[CL1 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[CL1 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 ItemDisplay[CL2 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[CL2 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[CL2 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 ItemDisplay[CL4 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[CL4 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[CL4 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 ItemDisplay[CL5 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[CL5 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[CL5 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 //Rare Circlets
 ItemDisplay[EQ7 RARE !ETH !ID]: %YELLOW%©©%YELLOW% %NAME% %YELLOW%©©
-ItemDisplay[EQ7 RARE ETH !ID]: %GRAY%©©eth%YELLOW%%NAME%%GRAY%©©
+ItemDisplay[EQ7 RARE ETH !ID]: %GRAY%©%YELLOW%©eth %YELLOW%%NAME% %YELLOW%©%GRAY%©
 //Rare Wands
 ItemDisplay[WP12 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[WP12 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[WP12 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 //Rare Gloves
 ItemDisplay[EQ4 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[EQ4 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[EQ4 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 //Rare Boots
 ItemDisplay[EQ5 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[EQ5 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[EQ5 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 //Rare Belts
 ItemDisplay[EQ6 RARE !ETH !ID]: %YELLOW%%NAME%
-ItemDisplay[EQ6 RARE ETH !ID]: %GRAY%eth%YELLOW%%NAME%
+ItemDisplay[EQ6 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 //Final Code Rares
 ItemDisplay[(ARMOR OR WEAPON) RARE !ETH !ID CLVL<80]: %YELLOW%%NAME%
 ItemDisplay[(ARMOR OR WEAPON) RARE ETH !ID CLVL<80]: %GRAY%eth%YELLOW%%NAME%
