@@ -161,7 +161,7 @@ ItemDisplay[r33]: %PURPLE%©©©%ORANGE%«%PURPLE%©©©© %ORANGE%Zod%GRAY%[33]
 //Jewels
 ItemDisplay[jew MAG !ID]: «%NAME%«
 ItemDisplay[jew RARE !ID]: «%NAME%«
-ItemDisplay[jew UNI !ID]: %PURPLE%©©%TAN%©©«%PURPLE%%NAME%%TAN%«©©%PURPLE%©©
+ItemDisplay[jew UNI !ID]: %PURPLE%«%TAN%¤¤%PURPLE%«%TAN%¤¤%PURPLE%« %NAME% «%TAN%¤¤%PURPLE%«%TAN%¤¤%PURPLE%«
 //GG Charms
 ItemDisplay[cm1 !ID]: %BLUE%«Small Charm«%GRAY%[%ILVL%]
 ItemDisplay[cm2 !ID]: %BLUE%«Large Charm«%GRAY%[%ILVL%]
@@ -273,8 +273,8 @@ ItemDisplay[cm3 TABSK41>0]: %PURPLE%ShapeShift Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 TABSK42>0]: %PURPLE%Dru Ele Skiller %GRAY%[%ILVL%]
 ItemDisplay[cm3 TABSK48>0]: %PURPLE%Trap Skiller %GRAY%[%ILVL%]
 //Rings and Amulets
-ItemDisplay[rin UNI !ID]: %PURPLE%««««%TAN%¤¤%PURPLE%« %NAME% «%TAN%¤¤%PURPLE%««««
-ItemDisplay[amu UNI !ID]: %PURPLE%««««%TAN%¤¤%PURPLE%« %NAME% «%TAN%¤¤%PURPLE%««««
+ItemDisplay[rin UNI !ID]: %PURPLE%«%TAN%¤¤%PURPLE%«%TAN%¤¤%PURPLE%« %NAME% «%TAN%¤¤%PURPLE%«%TAN%¤¤%PURPLE%«
+ItemDisplay[amu UNI !ID]: %PURPLE%«%TAN%¤¤%PURPLE%«%TAN%¤¤%PURPLE%« %NAME% «%TAN%¤¤%PURPLE%«%TAN%¤¤%PURPLE%«
 ItemDisplay[rin SET !ID]: %GREEN%«« %NAME% ««
 ItemDisplay[amu SET !ID]: %GREEN%««%DGREEN%««%GREEN%« %NAME% «%DGREEN%««%GREEN%««
 ItemDisplay[rin RARE !ID]: %YELLOW%«««« %NAME% ««««
@@ -523,11 +523,11 @@ ItemDisplay[vbl UNI !ID !ETH]: %TAN%%NAME% %WHITE%[snakecord]
 ItemDisplay[vbl UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[snakecord]
 ItemDisplay[mbl UNI !ID !ETH]: %TAN%%NAME% %WHITE%[nightsmoke]
 ItemDisplay[mbl UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[nightsmoke]
-ItemDisplay[tbl UNI !ID !ETH]: %TAN%©%RED%©%TAN%Goldwrap%RED%©%TAN%©
+ItemDisplay[tbl UNI !ID !ETH]: %RED%©%TAN%Goldwrap%RED%©
 ItemDisplay[tbl UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[goldwrap]
 ItemDisplay[hbl UNI !ID !ETH]: %TAN%%NAME% %WHITE%[[bladebuckle]
 ItemDisplay[hbl UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[bladebuckle]
-ItemDisplay[zlb UNI !ID !ETH]: %TAN%©%RED%©%TAN%String of Ears%RED%©%TAN%©
+ItemDisplay[zlb UNI !ID !ETH]: %RED%©%TAN%String of Ears%RED%©
 ItemDisplay[zlb UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[string of ears]
 ItemDisplay[zvb UNI !ID !ETH]: %RED%©©©%TAN% Razortail %RED%©©©
 ItemDisplay[zvb UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[razortail]
