@@ -1206,7 +1206,7 @@ ItemDisplay[(uvc OR zvb) MAG ILVL>84]: %WHITE%%NAME% %ORANGE%!%GRAY%[caster belt
 //Inferior and Low Quality Items
 ItemDisplay[INF !RW !WP12 !CL4 !CL6]:
 //Bases
-ItemDisplay[(ARMOR OR WEAPON) SOCK=1]:
+ItemDisplay[(ARMOR OR WEAPON) NMAG SOCK=1]:
 //Helms
 ItemDisplay[(usk OR uh9) NMAG !ETH !SOCK=1 !SOCK=2 ED=15]: %DGREEN%%NAME%%BLUE% +15ED %PURPLE%[%SOCKETS%]
 ItemDisplay[(usk OR uh9) NMAG !ETH !SOCK=1 ED>0 ED<15]: %DGREEN%%NAME%%BLUE% +ED %YELLOW%[%SOCKETS%]
