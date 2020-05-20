@@ -76,7 +76,7 @@ ItemDisplay[mbr]: %WHITE%««%GREEN%Mephisto Brain%WHITE%««
 ItemDisplay[dhn]: %WHITE%««%RED%Diablo Horn%WHITE%««
 ItemDisplay[bey]: %WHITE%««%GOLD%Baal Eye%WHITE%««
 ItemDisplay[cx7]: %RED%¤¤¤¤ %GOLD%Key of Chaos%RED% ¤¤¤¤
-ItemDisplay[cx6]: %WHITE«%TAN%OO%RED% Diablo's Soulstone %TAN%OO%WHITE%«
+ItemDisplay[cx6]: %WHITE%«%TAN%OO%RED% Diablo's Soulstone %TAN%OO%WHITE%«
 ItemDisplay[cm1 UNI !ID]: %RED%«« %TAN%«« %PURPLE%Annihilus Charm %TAN%«« %RED%««
 ItemDisplay[cm2 UNI !ID]: %RED%«« %TAN%«« %PURPLE%Hellfire Torch %TAN%«« %RED%««
 //Path of Diablo Specific Items
@@ -1475,6 +1475,11 @@ ItemDisplay[WP11 NMAG SOCK=4 SK58=2]: %DGREEN%%NAME% %ORANGE%+2 ES %YELLOW%[%SOC
 ItemDisplay[(cst OR bst OR 8cs OR 8bs OR 6cs OR 6bs) NMAG !SUP SOCK=0 SK58=2]: %DGREEN%%NAME% %ORANGE%+2 ES %YELLOW%[%SOCKETS%]
 ItemDisplay[WP11 NMAG SOCK=4 SK58=1]: %DGREEN%%NAME% %ORANGE%+1 ES %WHITE%[%SOCKETS%]
 ItemDisplay[(cst OR bst OR 8cs OR 8bs OR 6cs OR 6bs) NMAG !SUP SOCK=0 SK58=1]: %DGREEN%%NAME% %ORANGE%+1 ES %WHITE%[%SOCKETS%]
+// SKY'S STAFF HUNTING
+//ItemDisplay[WP11 NMAG SOCK=5 SK58>0 SK5X>0]: %DGREEN%%NAME% %ORANGE%+1 ES +Chill Armor%WHITE%[%SOCKETS%]
+ItemDisplay[WP11 NMAG SOCK=5 SK58>0 SK50>0]: %WHITE%«%BLUE%SKY_88%WHITE%« %PURPLE%%NAME% %ORANGE%+1 ES +Shiver Armor%WHITE%[%SOCKETS%]
+//ItemDisplay[(wst OR 8ws OR 6ws) NMAG !SUP SOCK=0 SK58>0 SK5X>0]: %DGREEN%%NAME% %ORANGE%+1 ES +Chill Armor%WHITE%[%SOCKETS%]
+ItemDisplay[(wst OR 8ws OR 6ws) NMAG !SUP SOCK=0 SK58>0 SK50>0]: %WHITE%«%BLUE%SKY_88%WHITE%« %PURPLE%%NAME% %ORANGE%+1 ES +Shiver Armor%WHITE%[%SOCKETS%]
 //Elite ETH Staff
 ItemDisplay[6ws NMAG ETH SOCK=6]: %GRAY%ETH %DGREEN%%NAME% %WHITE%[%SOCKETS%]
 ItemDisplay[(6cs OR 6bs OR 6ws) NMAG ETH ED=15 SOCK=4]: %GRAY%ETH %DGREEN%%NAME% %BLUE%+15ED %PURPLE%[%SOCKETS%]
