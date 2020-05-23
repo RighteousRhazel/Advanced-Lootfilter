@@ -805,10 +805,10 @@ ItemDisplay[9h9 UNI !ID !ETH]: %TAN%%NAME% %WHITE%[husoldal evo]
 ItemDisplay[9h9 UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[husoldal evo]
 ItemDisplay[9wc UNI !ID !ETH]: %TAN%%NAME% %WHITE%[grim's burning dead]
 ItemDisplay[9wc UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[grim's burning dead]
-ItemDisplay[7o7 UNI !ID !ETH]: %RED%©%TAN% Bonehew %RED%©©
+ItemDisplay[7o7 UNI !ID !ETH]: %RED%©©%TAN% Bonehew %RED%©©
 ItemDisplay[7o7 UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%Bonehew %RED%©©%GRAY%©
 ItemDisplay[7s8 UNI !ID !ETH]: %RED%©©%TAN% Reaper's Toll %RED%©©
-ItemDisplay[7s8 UNI !ID ETH]: %GRAY%©%RED%©%GRAY%ETH %TAN%Reaper's Toll %RED%©©%GRAY%©
+ItemDisplay[7s8 UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%Reaper's Toll %RED%©©%GRAY%©
 ItemDisplay[7pa UNI !ID !ETH]: %RED%©©%TAN% Tomb Reaver %RED%©©
 ItemDisplay[7pa UNI !ID ETH]: %GRAY%©%RED%©©%GRAY%ETH %TAN%Tomb Reaver %RED%©©%GRAY%©
 ItemDisplay[7wc UNI !ID !ETH]: %RED%©©©%TAN% Stormspire %RED%©©©
@@ -834,16 +834,16 @@ ItemDisplay[6l7 UNI !ID]: %RED%©©%TAN% Eaglehorn %RED%©©
 ItemDisplay[6sw UNI !ID]: %TAN%%NAME% %WHITE%[widowmaker]
 ItemDisplay[6lw UNI !ID]: %RED%©©%TAN%©©%RED%©©%PURPLE% Windforce %RED%©©%TAN%©©%RED%©©
 //Unique Crossbows
-ItemDisplay[lxb UNI !ID]:
-ItemDisplay[mxb UNI !ID]:
-ItemDisplay[hxb UNI !ID]:
+ItemDisplay[lxb UNI !ID]: %TAN%%NAME% %WHITE%[leadcrow]
+ItemDisplay[mxb UNI !ID]: %TAN%%NAME% %WHITE%[ichorsting]
+ItemDisplay[hxb UNI !ID]: %TAN%%NAME% %WHITE%[hellcast]
 ItemDisplay[rxb UNI !ID]: %RED%©©%TAN% Doomslinger %RED%©©
-ItemDisplay[8lx UNI !ID]:
-ItemDisplay[8mx UNI !ID]:
-ItemDisplay[8hx UNI !ID]:
-ItemDisplay[8rx UNI !ID]:
-ItemDisplay[6hx UNI !ID]:
-ItemDisplay[6rx UNI !ID]:
+ItemDisplay[8lx UNI !ID]: %TAN%%NAME% %WHITE%[langer briser]
+ItemDisplay[8mx UNI !ID]: %TAN%%NAME% %WHITE%[pus spitter]
+ItemDisplay[8hx UNI !ID]: %TAN%%NAME% %WHITE%[buriza-do kyanon]
+ItemDisplay[8rx UNI !ID]: %TAN%%NAME% %WHITE%[demon machine]
+ItemDisplay[6hx UNI !ID]: %TAN%%NAME% %WHITE%[hellrack]
+ItemDisplay[6rx UNI !ID]: %TAN%%NAME% %WHITE%[gut siphon]
 //Unique Staves
 ItemDisplay[sst UNI !ID !ETH]: %TAN%%NAME% %WHITE%[bane ash]
 ItemDisplay[sst UNI !ID ETH]: %GRAY%E %TAN%%NAME%%GRAY%[bane ash]
@@ -1043,12 +1043,12 @@ ItemDisplay[9vo SET !ID !ETH]: %GREEN%%NAME% %DGREEN%Hwanin's
 ItemDisplay[9vo SET !ID ETH]: %GRAY%ETH %GREEN%%NAME% %DGREEN%Hwanin's
 ItemDisplay[xcl SET !ID]: %GREEN%%NAME% %DGREEN%Hwanin's
 ItemDisplay[mbl SET !ID]: %GREEN%%NAME% %DGREEN%Hsarus' or Hwanin's
-ItemDisplay[ba5 SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
-ItemDisplay[7m7 SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
-ItemDisplay[uar SET !ID]: %PURPLE%©© %GREEN%%NAME% %DGREEN%Immortal King %PURPLE%©©
-ItemDisplay[zhb SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
-ItemDisplay[xhg SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
-ItemDisplay[xhb SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King
+ItemDisplay[ba5 SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King's
+ItemDisplay[7m7 SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King's
+ItemDisplay[uar SET !ID]: %PURPLE%©© %GREEN%%NAME% %DGREEN%Immortal King's %PURPLE%©©
+ItemDisplay[zhb SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King's
+ItemDisplay[xhg SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King's
+ItemDisplay[xhb SET !ID]: %GREEN%%NAME% %DGREEN%Immortal King's
 ItemDisplay[ci3 SET !ID]: %GREEN%%NAME% %DGREEN%Mavina's
 ItemDisplay[amc SET !ID]: %GREEN%%NAME% %DGREEN%Mavina's
 ItemDisplay[uld SET !ID]: %GREEN%%NAME% %DGREEN%Mavina's
@@ -1116,8 +1116,8 @@ ItemDisplay[(ARMOR OR WEAPON) RARE ETH !ID CLVL<80]: %GRAY%eth%YELLOW%%NAME%
 ItemDisplay[(ARMOR OR WEAPON) RARE !ID CLVL>0]:
 ItemDisplay[(WEAPON OR ARMOR) RARE !ID]: %YELLOW%%NAME%%RED%[REPORT TO RHAZEL]OOO
 //Magic Items
-ItemDisplay[(am5 OR ama OR amf) !UNI ID TABSK2>5]: %PURPLE%©©© %NAME% %ORANGE%+6 Jav Skills %PURPLE%©©©
-ItemDisplay[(am5 OR ama OR amf) !UNI ID TABSK2=5]: %PURPLE%© %NAME% %ORANGE%+5 Jav Skills %PURPLE%©
+ItemDisplay[(am5 OR ama OR amf) !UNI ID TABSK2>5]: %PURPLE%©©© %BLUE%%NAME% %ORANGE%+6 Jav Skills %PURPLE%©©©
+ItemDisplay[(am5 OR ama OR amf) !UNI ID TABSK2=5]: %PURPLE%© %BLUE%%NAME% %ORANGE%+5 Jav Skills %PURPLE%©
 ItemDisplay[(am5 OR ama OR amf) !UNI ID (TABSK2>2 AND CLSK0=2)]: %PURPLE%©©© %NAME% %ORANGE%+3 Jav Skills +2 Ama Skills %PURPLE%©©©
 ItemDisplay[(am5 OR ama OR amf) MAG !ID]: %NAME%
 ItemDisplay[CL5 (TABSK48>2 AND SK271>2)]: %NAME% %ORANGE%+3 Traps +3 Lightning Sentry%PURPLE%[%SOCKETS%]
