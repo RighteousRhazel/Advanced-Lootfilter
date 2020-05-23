@@ -1096,8 +1096,8 @@ ItemDisplay[CL4 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 ItemDisplay[CL5 RARE !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[CL5 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
 //Rare Circlets
-ItemDisplay[EQ7 RARE !ETH !ID]: %YELLOW%©©%YELLOW% %NAME% %YELLOW%©©
-ItemDisplay[EQ7 RARE ETH !ID]: %GRAY%©%YELLOW%©eth %YELLOW%%NAME% %YELLOW%©%GRAY%©
+ItemDisplay[EQ7 RARE !ETH !ID]: %YELLOW%©© %NAME% ©©
+ItemDisplay[EQ7 RARE ETH !ID]: %GRAY%©%YELLOW%©%GRAY%eth %YELLOW%%NAME% %YELLOW%©%GRAY%©
 //Rare Wands
 ItemDisplay[WP12 RARE !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[WP12 RARE ETH !ID]: %GRAY%eth %YELLOW%%NAME%
