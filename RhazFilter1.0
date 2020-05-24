@@ -159,14 +159,14 @@ ItemDisplay[r31]: %PURPLE%©©©%ORANGE%«%PURPLE%©©©© %ORANGE%Jah%GREEN%[31
 ItemDisplay[r32]: %PURPLE%©©©%ORANGE%«%PURPLE%©©©© %ORANGE%Cham%GREEN%[32] %PURPLE%©©©©%ORANGE%«%PURPLE%©©©
 ItemDisplay[r33]: %PURPLE%©©©%ORANGE%«%PURPLE%©©©© %ORANGE%Zod%GREEN%[33] %PURPLE%©©©©%ORANGE%«%PURPLE%©©©
 //Jewels
-ItemDisplay[jew MAG !ID]: «%NAME%«
+ItemDisplay[jew MAG !ID]: %ORANGE%«%BLUE%%NAME%%ORANGE%«
 ItemDisplay[jew RARE !ID]: «%NAME%«
 ItemDisplay[jew UNI !ID]: %TAN%«%PURPLE%¤¤%TAN%«%PURPLE%¤¤%TAN%« %PURPLE%%NAME% %TAN%«%PURPLE%¤¤%TAN%«%PURPLE%¤¤%TAN%«
 //GG Charms
-ItemDisplay[cm1 !ID]: %BLUE%«Small Charm«%GRAY%[%ILVL%]
-ItemDisplay[cm2 !ID]: %BLUE%«Large Charm«%GRAY%[%ILVL%]
+ItemDisplay[cm1 !ID]: %ORANGE%«%BLUE%%NAME%%GRAY%[%ILVL%]%ORANGE%«
+ItemDisplay[cm2 !ID]: %BLUE%«Large Charm%GRAY%[%ILVL%]%BLUE%«
 ItemDisplay[cm3 UNI !ID]: %RED%©%TAN%©%RED%©%PURPLE%GHEED'S%RED%©%TAN%©%RED%©
-ItemDisplay[cm3 !ID]: %BLUE%«Grand Charm«%GRAY%[%ILVL%]
+ItemDisplay[cm3 !ID]: %ORANGE%«%BLUE%%NAME%%GRAY%[%ILVL%]%ORANGE%«
 ItemDisplay[cm3 (ITEMSTAT22>6 AND LIFE>0)]: %TAN%Max Dmg %RED%Life %BLUE%Grand Charm %GRAY%[%ILVL%]
 ItemDisplay[cm3 (ITEMSTAT22>6 AND ITEMSTAT96>0)]: %TAN%Max Dmg %ORANGE%frw %BLUE%Grand Charm %GRAY%[%ILVL%]
 ItemDisplay[cm3 (ITEMSTAT22>6 AND ITEMSTAT99>0)]: %TAN%Max Dmg %ORANGE%FHR %BLUE%Grand Charm %GRAY%[%ILVL%]
