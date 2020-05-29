@@ -1204,7 +1204,7 @@ ItemDisplay[(hlm OR xlm OR ulm) MAG ILVL>82 CLVL<91]: %WHITE%%NAME% %ORANGE%!%GR
 ItemDisplay[(ulb OR xlb OR lbt) MAG ILVL>84]: %WHITE%%NAME% %ORANGE%!%GRAY%[caster boots]
 ItemDisplay[(uvc OR zvb) MAG ILVL>84]: %WHITE%%NAME% %ORANGE%!%GRAY%[caster belt]
 //Inferior and Low Quality Items
-ItemDisplay[INF !RW !WP12 !CL4 !CL6]:
+ItemDisplay[INF !RW !WP12 !CL2 !CL4 !CL5 !CL6]:
 //Bases
 ItemDisplay[(ARMOR OR WEAPON) NMAG SOCK=1]:
 //Helms
@@ -1444,11 +1444,12 @@ ItemDisplay[7p7 NMAG ETH (SOCK=0 OR SOCK=6)]: %GRAY%ETH %DGREEN%%NAME% %PURPLE%[
 ItemDisplay[WP7 NMAG !ETH CLVL<15]: %NAME%[%SOCKETS%]
 ItemDisplay[WP7 NMAG ETH CLVL<15]: %GRAY%ETH %WHITE%%NAME%[%SOCKETS%]
 ItemDisplay[WP7 NMAG CLVL>0]:
-//Thresher+Giant Thresher
-ItemDisplay[7wc NMAG ETH SOCK=4]: %GRAY%ETH %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
-ItemDisplay[7wc NMAG ETH ED=0 (SOCK=0 OR SOCK>3)]: %GRAY%ETH %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
-ItemDisplay[7wc NMAG !ETH (SOCK=0 OR SOCK>3)]: %DGREEN%%NAME% %YELLOW%[%SOCKETS%]
-ItemDisplay[7s8 NMAG ETH (SOCK=0 OR SOCK>3)]: %GRAY%ETH %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
+//Thresher+Giant Thresher+Polearms
+ItemDisplay[7wc NMAG ETH SOCK=4]: %PURPLE%««%GRAY%ETH %DGREEN%%NAME% %PURPLE%[%SOCKETS%]««
+ItemDisplay[7wc NMAG ETH ED=0 (SOCK=0 OR SOCK>3)]: %GRAY%ETH %DGREEN%%NAME% %RED%[%SOCKETS%]
+ItemDisplay[7wc NMAG !ETH (SOCK=0 OR SOCK>3)]: %DGREEN%%NAME% %WHITE%[%SOCKETS%]
+ItemDisplay[7s8 NMAG ETH SOCK=4]: %PURPLE%««%GRAY%ETH %DGREEN%%NAME% %PURPLE%[%SOCKETS%]««
+ItemDisplay[7s8 NMAG ETH ED=0 (SOCK=0 OR SOCK>3)]: %GRAY%ETH %DGREEN%%NAME% %RED%[%SOCKETS%]
 ItemDisplay[7s8 NMAG !ETH (SOCK=0 OR SOCK>3)]: %DGREEN%%NAME% %WHITE%[%SOCKETS%]
 ItemDisplay[WP8 NMAG ETH SOCK=4]: %GRAY%ETH %DGREEN%%NAME% %WHITE%[%SOCKETS%]
 ItemDisplay[WP8 NMAG !ETH CLVL<15]: %NAME%[%SOCKETS%]
